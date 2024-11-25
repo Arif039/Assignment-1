@@ -375,7 +375,8 @@ button.btn:hover {
     /* border: 1px solid red; */
     width: 81%;
     margin: 0 auto;
-    margin-bottom: 110px;
+    margin-bottom: 115px;
+    margin-top: 160px;
 }
 
 .client_heading {
@@ -1377,7 +1378,7 @@ textarea#message {
     width: 80%;
     margin: 0 auto;
     /* background: #f5f7fa; */
-    margin-top: 13%;
+    margin-top: 20%;
     margin-bottom: 10%;
 }
 
